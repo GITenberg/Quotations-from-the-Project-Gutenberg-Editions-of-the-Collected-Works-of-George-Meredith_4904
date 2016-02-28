@@ -1,0 +1,33 @@
+_repo: Quotations-from-the-Project-Gutenberg-Editions-of-the-Collected-Works-of-George-Meredith_4904
+contributor:
+  creator:
+    editor:
+      agent_name: Widger, David
+      birthdate: 1932
+      gutenberg_agent_id: '1961'
+      url: http://www.gutenberg.org/2009/agents/1961
+creator:
+  author:
+    agent_name: Meredith, George
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '520'
+    url: http://www.gutenberg.org/2009/agents/520
+    wikipedia: http://en.wikipedia.org/wiki/George_Meredith
+description: ''
+gutenberg_bookshelf: Project Gutenberg
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature'
+- !lcsh 'Quotations'
+title: Quotations from the Project Gutenberg Editions of the Collected Works of George
+  Meredith
+url: http://www.gutenberg.org/ebooks/4904
